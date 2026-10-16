@@ -26,7 +26,7 @@ Version: $VERSION
 Section: video
 Priority: optional
 Architecture: amd64
-Maintainer: Anker C200 Studio Contributors <noreply@example.invalid>
+Maintainer: Anker C200 Studio Contributors <andersonvm1@gmail.com>
 Depends: python3, python3-tk, python3-opencv, python3-pil, python3-pil.imagetk, v4l-utils, libc6
 Description: Anker C200 Studio GUI with bundled camera controller
  Camera controls, live preview and profiles for Anker PowerConf C200.
