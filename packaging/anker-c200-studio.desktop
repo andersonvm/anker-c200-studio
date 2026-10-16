@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Anker C200 Studio
+Comment=Painel de controle e visualização da Anker PowerConf C200
+Exec=anker-c200-studio
+Icon=camera-web
+Terminal=false
+Categories=AudioVideo;Video;Settings;
+StartupNotify=true
